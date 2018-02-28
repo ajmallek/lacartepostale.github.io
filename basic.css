@@ -1,0 +1,77 @@
+html, body {
+  height: 100%;
+}
+
+#wrap {
+  min-height: 100%;
+}
+
+.footer {
+  position: fixed;
+  text-align: center;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.navbar {
+    position: relative;
+}
+.navbar-brand {
+    position: absolute;
+    left: 40px;
+    margin-left: -50px !important;  /* 50% of your logo width */
+    display: block;
+    bottom: 5px;
+}
+
+.left {
+    width: 5%;
+    margin-bottom: auto;
+    margin-top: auto;
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.bottom-margin {
+  margin-bottom: 30px;
+}
+
+.big-space {
+  bottom:0;
+  position: fixed;
+
+}
+
+
+.bg-turquoise{
+  background-color: #40E0D0;
+  color: #000000;
+}
+
+.margin {margin-bottom: 45px;}
+
+.bg-green {
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+}
+.bg-darkblue {
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
+.bg-white {
+    background-color: #ffffff; /* White */
+    color: #555555;
+}
+.bg-blackgrey {
+    background-color: #2f2f2f; /* Black Grey */
+    color: #ffffff;
+}
+.bg-lightgrey {
+    background-color: #f5f6f7; /* Light Grey */
+    color: #ffffff;
+}
