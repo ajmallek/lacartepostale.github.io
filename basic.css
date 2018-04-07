@@ -19,7 +19,7 @@ html, body {
 }
 
 .navbar-brand {
-    width: 50%;
+    width: 5%;
     position: absolute;
     left: 40px;
     margin-left: -50px !important;  /* 50% of your logo width */
