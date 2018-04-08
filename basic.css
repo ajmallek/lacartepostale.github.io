@@ -38,6 +38,10 @@ html, body {
   width: 50%;
 }
 
+.really_small{
+  width: 25%;
+}
+
 .center {
     display: block;
     margin-left: auto;
