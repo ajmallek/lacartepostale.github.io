@@ -23,6 +23,12 @@ html, body {
   max-height: 30px;
 }
 
+.size{
+  width:1500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .left {
   height: auto;
   width: auto;
