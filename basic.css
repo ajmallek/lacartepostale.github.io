@@ -18,13 +18,9 @@ html, body {
     position: relative;
 }
 
-.navbar-brand {
-    width: 5%;
-    position: absolute;
-    left: 40px;
-    margin-left: -50px !important;  /* 50% of your logo width */
-    display: block;
-    bottom: 5px;
+.brand{
+  max-width: 30px;
+  max-height: 30px;
 }
 
 .left {
